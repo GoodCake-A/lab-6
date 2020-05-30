@@ -2,7 +2,6 @@ package bsuir.vmsis.lab6.sortings
 
 import bsuir.vmsis.lab6.players.SoccerPlayer
 import scala.collection.mutable.ListBuffer
-import scala.annotation.tailrec
 
 object MergeSort {
 
